@@ -1,0 +1,25 @@
+{
+  "name": "cloudmailapi",
+  "version": "1.0.0",
+  "description": "Node.js module for Mail.ru Cloud API",
+  "main": "cloudMailApi.js",
+  "dependencies": {
+    "request": "^2.34"
+  },
+  "keywords": [
+    "mail.ru",
+    "api",
+    "cloud"
+  ],
+  "author": {
+    "name": "halipso",
+    "email": "info@halip.so"
+  },
+  "licenses": [
+    {
+      "type": "WTFPL",
+      "url": "http://www.wtfpl.net/about/"
+    }
+  ],
+  "homepage": "https://github.com/halipso/cloudmailapi"
+}
